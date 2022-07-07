@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/experiment01/experiment01.iml" filepath="$PROJECT_DIR$/experiment01/experiment01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/experiment02/experiment02.iml" filepath="$PROJECT_DIR$/experiment02/experiment02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj_0617cuiwei_exp2/proj_0617cuiwei_exp2.iml" filepath="$PROJECT_DIR$/proj_0617cuiwei_exp2/proj_0617cuiwei_exp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj_0617cuiwei_exp3/proj_0617cuiwei_exp3.iml" filepath="$PROJECT_DIR$/proj_0617cuiwei_exp3/proj_0617cuiwei_exp3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj_0617cuiwei_exp4/proj_0617cuiwei_exp4.iml" filepath="$PROJECT_DIR$/proj_0617cuiwei_exp4/proj_0617cuiwei_exp4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj_0617cuiwei_exp6_1/proj_0617cuiwei_exp6_1.iml" filepath="$PROJECT_DIR$/proj_0617cuiwei_exp6_1/proj_0617cuiwei_exp6_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj_0617cuiwei_exp6_2/proj_0617cuiwei_exp6_2.iml" filepath="$PROJECT_DIR$/proj_0617cuiwei_exp6_2/proj_0617cuiwei_exp6_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj_0617cuiwei_exp6_3/proj_0617cuiwei_exp6_3.iml" filepath="$PROJECT_DIR$/proj_0617cuiwei_exp6_3/proj_0617cuiwei_exp6_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj_0617cuiwei_exp6_4/proj_0617cuiwei_exp6_4.iml" filepath="$PROJECT_DIR$/proj_0617cuiwei_exp6_4/proj_0617cuiwei_exp6_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj_0617cuiwei_exp6_5/proj_0617cuiwei_exp6_5.iml" filepath="$PROJECT_DIR$/proj_0617cuiwei_exp6_5/proj_0617cuiwei_exp6_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj__0617cuiwei__exp4/proj__0617cuiwei__exp4.iml" filepath="$PROJECT_DIR$/proj__0617cuiwei__exp4/proj__0617cuiwei__exp4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj__0617cuiwei__exp5_1/proj__0617cuiwei__exp5_1.iml" filepath="$PROJECT_DIR$/proj__0617cuiwei__exp5_1/proj__0617cuiwei__exp5_1.iml" />
+    </modules>
+  </component>
+</project>

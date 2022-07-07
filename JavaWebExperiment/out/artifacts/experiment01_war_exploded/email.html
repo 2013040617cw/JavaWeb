@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>实现邮箱格式的检验</title>
+    <script language="JavaScript">
+        function f() {
+            var email = document.getElementById("cuiwei").value;
+            var emailreg = /^[0-9a-zA-Z.-_]+@[0-9a-zA-Z.-_]+(\.[a-zA-Z]+){1,2}$/;
+            var p = emailreg.test(email);
+            if(p==true){
+                alert("输入的邮箱格式正确");
+            }
+            if(p==false){
+                alert("输入的邮箱格式不正确，请重新输入");
+            }
+        }
+    </script>
+</head>
+<body>
+<form name="cuiweimyform" action="" method="post" onsubmit = f(this)>
+    <table>
+        <tr>
+            <td >用户名:</td>
+            <td colspan="2"> <input type="text" name="cuiwei-username"></td>
+        </tr>
+        <tr>
+            <td>密码: </td>
+            <td colspan="2"><input type="passwor" name="cuiwei-password"></td>
+        </tr>
+        <tr>
+            <td>证件类型：</td>
+            <td> <input type="radio" name = "cuiwei-type"> 身份证</td>
+            <td> <input type="radio" name = "cuiwei-type"> 户口本</td>
+        </tr>
+        <tr>
+            <td>家庭住址：</td>
+            <td colspan="2">
+                <select name="addresss" >
+                    <option value="太原">太原</option>
+                    <option value="太原1">太原a</option>
+                    <option value="太原2">太原b</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>email: </td>
+            <td colspan="2"><input type="text" name="cuiweiemail" id="cuiwei"></td>
+            <td><input type="submit" value="提交"></td>
+        <tr>
+
+        
+    </table>
+ </form>
+
+</body>
+</html>
